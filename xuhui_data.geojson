@@ -1,0 +1,2280 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/1441441264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4320939,
+          31.1972929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/1441441277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4319682,
+          31.1964164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "name": "CRE 中铁快 (铁路行包房)",
+        "name:en": "CRE China Rail Express (freight collection)",
+        "website": "https://www.95572.com/",
+        "@id": "node/3724313001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4220729,
+          31.154216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "name": "CRE 中铁快 (铁路行包房)",
+        "name:en": "CRE China Rail Express (freight depot)",
+        "website": "https://www.95572.com/",
+        "@id": "node/3724314433"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.421282,
+          31.1538132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/3755910223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4360973,
+          31.1949698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/3805801162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4334541,
+          31.1838967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/3806027510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4377296,
+          31.1868341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:city": "shanghai",
+        "addr:street": "肇嘉浜路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "level": "1",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/3905964959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.443992,
+          31.2001813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:city": "上海",
+        "addr:housenumber": "1008-4",
+        "addr:street": "淮海中路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/4162226537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4529113,
+          31.2181741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:housenumber": "No. 8",
+        "addr:street": "南丹东路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/4382903389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4412042,
+          31.192877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su,PH 07:00-22:00",
+        "takeaway": "yes",
+        "@id": "node/4391736218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4277677,
+          31.2016065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:housenumber": "500-2",
+        "addr:street": "肇嘉浜路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/4423062989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4498301,
+          31.203115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/4476558095"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4350011,
+          31.1955061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "no",
+        "@id": "node/4476558096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.433278,
+          31.2063687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:city": "上海市",
+        "addr:district": "徐汇区",
+        "addr:housenumber": "599",
+        "addr:street": "东安路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/4537546489"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4540236,
+          31.188547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:housenumber": "19",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "takeaway": "yes",
+        "@id": "node/4674891889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4187764,
+          31.1788973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:housenumber": "890弄3号",
+        "addr:street": "衡山路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@id": "node/4826751226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4349521,
+          31.1975992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "no",
+        "@id": "node/4977069621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.432255,
+          31.199617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:housenumber": "1089",
+        "addr:street": "中山南二路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/5073175334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4386258,
+          31.1809984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:housenumber": "402",
+        "addr:street": "桂林路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "phone": "+86 21 5465 0795",
+        "takeaway": "yes",
+        "@id": "node/5232179148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4115593,
+          31.1741842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/5258792647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4213798,
+          31.1369873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/5260175922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4375468,
+          31.1904118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/5261337506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4359949,
+          31.1947253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:housenumber": "1008",
+        "addr:street": "淮海中路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:ja": "スターバックス",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/5275031821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4532473,
+          31.218379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/5507705201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4383509,
+          31.1943193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/5529607965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4287297,
+          31.176413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:housenumber": "519",
+        "addr:street": "淮海西路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+86 21 5299 6895",
+        "takeaway": "yes",
+        "@id": "node/5784517287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4184174,
+          31.197699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/5952948786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4553306,
+          31.207734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/6217701085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4303326,
+          31.2036407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "@id": "node/6387255820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4528517,
+          31.1863593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/6468988485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4481869,
+          31.2116079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/7366190895"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4332832,
+          31.1850293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/7417153109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4407028,
+          31.1970695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/7555436655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.423182,
+          31.1856446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "no",
+        "@id": "node/7656355075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4452801,
+          31.2143077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "level": "-2",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@id": "node/8221463008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4529163,
+          31.2173167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:housenumber": "878",
+        "addr:street": "番禺路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/8691113717"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4236059,
+          31.1982021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "@id": "node/9503764681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4591447,
+          31.1827271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/10779667232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4279592,
+          31.1329387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/11175751921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4511442,
+          31.1215323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/11224458264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4550013,
+          31.1660752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/11276662108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4439448,
+          31.2077683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/11304029579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4558722,
+          31.1189869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/11633788362"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4555474,
+          31.1612576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/11633816771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4270897,
+          31.1541471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/11959676531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4602749,
+          31.1843463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/12060721143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4461853,
+          31.1557129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "wheelchair": "no",
+        "@id": "node/12203903440"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4456277,
+          31.2141686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/12446550901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4372213,
+          31.1967572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/12483814401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4343656,
+          31.1924389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/12498223993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4282204,
+          31.1705758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/12498228526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.429001,
+          31.1762253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "星巴克St",
+        "name:en": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "@id": "node/12518143102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4283156,
+          31.1706569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/13368682862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3947881,
+          31.1637467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "@id": "node/13368725811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3942738,
+          31.1658002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:postcode": "200030",
+        "addr:street": "上海市徐汇区淮海西路55号",
+        "building": "office",
+        "name": "申通信息广场",
+        "name:en": "Sun Tong Infoport Plaza",
+        "source": "Autonavi",
+        "@id": "way/96664914"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4292197,
+              31.2032533
+            ],
+            [
+              121.429446,
+              31.2033715
+            ],
+            [
+              121.4296361,
+              31.2034691
+            ],
+            [
+              121.4300162,
+              31.20361
+            ],
+            [
+              121.4301493,
+              31.2033715
+            ],
+            [
+              121.4301556,
+              31.2033065
+            ],
+            [
+              121.4300732,
+              31.2031819
+            ],
+            [
+              121.4299465,
+              31.2030843
+            ],
+            [
+              121.4299402,
+              31.2030085
+            ],
+            [
+              121.4298705,
+              31.2029543
+            ],
+            [
+              121.4297755,
+              31.2029109
+            ],
+            [
+              121.4296741,
+              31.2029163
+            ],
+            [
+              121.4295791,
+              31.202938
+            ],
+            [
+              121.429465,
+              31.2029489
+            ],
+            [
+              121.429408,
+              31.2030356
+            ],
+            [
+              121.4293637,
+              31.203041
+            ],
+            [
+              121.4292197,
+              31.2032533
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "@id": "way/372649192"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4526751,
+              31.1941964
+            ],
+            [
+              121.4528021,
+              31.1939127
+            ],
+            [
+              121.4528124,
+              31.1938684
+            ],
+            [
+              121.452793,
+              31.1938197
+            ],
+            [
+              121.4527658,
+              31.1937787
+            ],
+            [
+              121.4527231,
+              31.1937576
+            ],
+            [
+              121.45267,
+              31.1937366
+            ],
+            [
+              121.4526039,
+              31.1937111
+            ],
+            [
+              121.4524718,
+              31.1936712
+            ],
+            [
+              121.4523073,
+              31.1940789
+            ],
+            [
+              121.4526751,
+              31.1941964
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "nohousenumber": "yes",
+        "source": "GISmaps/std",
+        "@id": "way/372649293"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4554832,
+              31.1950241
+            ],
+            [
+              121.4559184,
+              31.195197
+            ],
+            [
+              121.4559921,
+              31.1950611
+            ],
+            [
+              121.455557,
+              31.1948883
+            ],
+            [
+              121.4554832,
+              31.1950241
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:housenumber": "380",
+        "addr:street": "一期A楼",
+        "building": "office",
+        "source": "GISmaps/std",
+        "@id": "way/372649356"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4527434,
+              31.1933364
+            ],
+            [
+              121.4530369,
+              31.1934311
+            ],
+            [
+              121.4531703,
+              31.1931286
+            ],
+            [
+              121.4528768,
+              31.1930339
+            ],
+            [
+              121.4527434,
+              31.1933364
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:housenumber": "388",
+        "building": "office",
+        "@id": "way/372649380"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4530834,
+              31.1928801
+            ],
+            [
+              121.4534323,
+              31.1930065
+            ],
+            [
+              121.4534574,
+              31.1929557
+            ],
+            [
+              121.4536461,
+              31.1930241
+            ],
+            [
+              121.4537335,
+              31.1928477
+            ],
+            [
+              121.4531959,
+              31.1926529
+            ],
+            [
+              121.4530834,
+              31.1928801
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "@id": "way/862439309"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4167115,
+              31.1886545
+            ],
+            [
+              121.4170108,
+              31.1888086
+            ],
+            [
+              121.4172614,
+              31.1884526
+            ],
+            [
+              121.4169621,
+              31.1882984
+            ],
+            [
+              121.4167115,
+              31.1886545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "@id": "way/862439310"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4172426,
+              31.1889184
+            ],
+            [
+              121.417519,
+              31.1890607
+            ],
+            [
+              121.417771,
+              31.1887027
+            ],
+            [
+              121.4174946,
+              31.1885603
+            ],
+            [
+              121.4172426,
+              31.1889184
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:district": "徐汇区",
+        "addr:housenumber": "160",
+        "addr:postcode": "200030",
+        "addr:province": "上海",
+        "addr:street": "恭城路",
+        "building": "office",
+        "building:levels": "21",
+        "name": "TWOitc",
+        "operator": "新鸿基地产",
+        "operator:en": "Sun Hung Kai Properties",
+        "operator:zh": "新鸿基地产",
+        "@id": "way/1076685324"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4318975,
+              31.1986065
+            ],
+            [
+              121.4319745,
+              31.1986215
+            ],
+            [
+              121.4319846,
+              31.1986248
+            ],
+            [
+              121.4319916,
+              31.1986295
+            ],
+            [
+              121.4319928,
+              31.198637
+            ],
+            [
+              121.4319917,
+              31.1986444
+            ],
+            [
+              121.4319485,
+              31.1988073
+            ],
+            [
+              121.431941,
+              31.1988182
+            ],
+            [
+              121.4319282,
+              31.1988282
+            ],
+            [
+              121.4319113,
+              31.198832
+            ],
+            [
+              121.4318944,
+              31.1988296
+            ],
+            [
+              121.4316353,
+              31.1987793
+            ],
+            [
+              121.4316239,
+              31.1987736
+            ],
+            [
+              121.4316153,
+              31.1987654
+            ],
+            [
+              121.4316128,
+              31.1987552
+            ],
+            [
+              121.4316131,
+              31.1987453
+            ],
+            [
+              121.4316536,
+              31.198593
+            ],
+            [
+              121.4316531,
+              31.1985877
+            ],
+            [
+              121.4316506,
+              31.1985825
+            ],
+            [
+              121.4316462,
+              31.1985802
+            ],
+            [
+              121.4316406,
+              31.1985785
+            ],
+            [
+              121.4316338,
+              31.1985759
+            ],
+            [
+              121.4316291,
+              31.1985726
+            ],
+            [
+              121.4316274,
+              31.1985682
+            ],
+            [
+              121.4316278,
+              31.1985637
+            ],
+            [
+              121.4316896,
+              31.1982899
+            ],
+            [
+              121.4316923,
+              31.1982831
+            ],
+            [
+              121.4316972,
+              31.1982768
+            ],
+            [
+              121.4317062,
+              31.1982734
+            ],
+            [
+              121.4317165,
+              31.1982728
+            ],
+            [
+              121.4321124,
+              31.1983497
+            ],
+            [
+              121.4320841,
+              31.1984564
+            ],
+            [
+              121.4320815,
+              31.1984646
+            ],
+            [
+              121.4320766,
+              31.1984711
+            ],
+            [
+              121.4320667,
+              31.1984729
+            ],
+            [
+              121.4320576,
+              31.1984717
+            ],
+            [
+              121.4320363,
+              31.1984675
+            ],
+            [
+              121.4320263,
+              31.1985055
+            ],
+            [
+              121.4320219,
+              31.1985128
+            ],
+            [
+              121.4320143,
+              31.1985194
+            ],
+            [
+              121.4320048,
+              31.1985214
+            ],
+            [
+              121.4319954,
+              31.1985221
+            ],
+            [
+              121.4319237,
+              31.1985082
+            ],
+            [
+              121.4318975,
+              31.1986065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "@id": "way/1267862857"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4439091,
+              31.1465234
+            ],
+            [
+              121.4437692,
+              31.1464856
+            ],
+            [
+              121.4438376,
+              31.1463005
+            ],
+            [
+              121.4440408,
+              31.1463555
+            ],
+            [
+              121.4441801,
+              31.1459786
+            ],
+            [
+              121.4436415,
+              31.1458328
+            ],
+            [
+              121.4433283,
+              31.1466797
+            ],
+            [
+              121.4438037,
+              31.1468085
+            ],
+            [
+              121.4439091,
+              31.1465234
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "building:levels": "29",
+        "name": "环贸A座",
+        "@id": "way/1309284221"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4536494,
+              31.2168802
+            ],
+            [
+              121.4540495,
+              31.2170545
+            ],
+            [
+              121.4538651,
+              31.2173641
+            ],
+            [
+              121.453795,
+              31.2174817
+            ],
+            [
+              121.4533949,
+              31.2173074
+            ],
+            [
+              121.4534632,
+              31.2171928
+            ],
+            [
+              121.4536494,
+              31.2168802
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "building:levels": "29",
+        "name": "环贸B座",
+        "@id": "way/1309284222"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4541159,
+              31.2174709
+            ],
+            [
+              121.4545244,
+              31.217645
+            ],
+            [
+              121.4542737,
+              31.2180808
+            ],
+            [
+              121.4538643,
+              31.2179086
+            ],
+            [
+              121.4541159,
+              31.2174709
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "@id": "way/1339970740"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4483917,
+              31.1096051
+            ],
+            [
+              121.4488296,
+              31.1095362
+            ],
+            [
+              121.4488825,
+              31.1097833
+            ],
+            [
+              121.4484446,
+              31.1098521
+            ],
+            [
+              121.4483917,
+              31.1096051
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "@id": "way/1339970741"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4484652,
+              31.1099483
+            ],
+            [
+              121.4489031,
+              31.1098795
+            ],
+            [
+              121.448956,
+              31.1101265
+            ],
+            [
+              121.4485181,
+              31.1101953
+            ],
+            [
+              121.4484652,
+              31.1099483
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "@id": "way/1339970742"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4485449,
+              31.1102987
+            ],
+            [
+              121.4489828,
+              31.1102298
+            ],
+            [
+              121.4490357,
+              31.1104769
+            ],
+            [
+              121.4485978,
+              31.1105457
+            ],
+            [
+              121.4485449,
+              31.1102987
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "@id": "way/1339970744"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4467936,
+              31.1085153
+            ],
+            [
+              121.4472315,
+              31.1085522
+            ],
+            [
+              121.4471685,
+              31.1091001
+            ],
+            [
+              121.4467305,
+              31.1090632
+            ],
+            [
+              121.4467936,
+              31.1085153
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "@id": "way/1339970745"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.447441,
+              31.1085798
+            ],
+            [
+              121.4480174,
+              31.1086369
+            ],
+            [
+              121.4479718,
+              31.1089751
+            ],
+            [
+              121.4473954,
+              31.1089181
+            ],
+            [
+              121.447441,
+              31.1085798
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "@id": "way/1339970746"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.4483058,
+              31.1086955
+            ],
+            [
+              121.4486678,
+              31.1087008
+            ],
+            [
+              121.4487323,
+              31.1091856
+            ],
+            [
+              121.4483583,
+              31.1092125
+            ],
+            [
+              121.4483058,
+              31.1086955
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building": "office",
+        "name": "漕河泾科汇大厦",
+        "@id": "way/1424529613"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.3965657,
+              31.180405
+            ],
+            [
+              121.3970098,
+              31.1805311
+            ],
+            [
+              121.3971633,
+              31.1801352
+            ],
+            [
+              121.3967192,
+              31.1800091
+            ],
+            [
+              121.3965657,
+              31.180405
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2278 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-03-19T14:29:16Z",
+    "timestamp_areas_base": "2026-03-19T09:14:58Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1441441264,
+      "lat": 31.1972929,
+      "lon": 121.4320939,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1441441277,
+      "lat": 31.1964164,
+      "lon": 121.4319682,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3724313001,
+      "lat": 31.154216,
+      "lon": 121.4220729,
+      "tags": {
+        "building": "office",
+        "name": "CRE 中铁快 (铁路行包房)",
+        "name:en": "CRE China Rail Express (freight collection)",
+        "website": "https://www.95572.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3724314433,
+      "lat": 31.1538132,
+      "lon": 121.421282,
+      "tags": {
+        "building": "office",
+        "name": "CRE 中铁快 (铁路行包房)",
+        "name:en": "CRE China Rail Express (freight depot)",
+        "website": "https://www.95572.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3755910223,
+      "lat": 31.1949698,
+      "lon": 121.4360973,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3805801162,
+      "lat": 31.1838967,
+      "lon": 121.4334541,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3806027510,
+      "lat": 31.1868341,
+      "lon": 121.4377296,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3905964959,
+      "lat": 31.2001813,
+      "lon": 121.443992,
+      "tags": {
+        "addr:city": "shanghai",
+        "addr:street": "肇嘉浜路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "level": "1",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4162226537,
+      "lat": 31.2181741,
+      "lon": 121.4529113,
+      "tags": {
+        "addr:city": "上海",
+        "addr:housenumber": "1008-4",
+        "addr:street": "淮海中路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4382903389,
+      "lat": 31.192877,
+      "lon": 121.4412042,
+      "tags": {
+        "addr:housenumber": "No. 8",
+        "addr:street": "南丹东路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4391736218,
+      "lat": 31.2016065,
+      "lon": 121.4277677,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su,PH 07:00-22:00",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4423062989,
+      "lat": 31.203115,
+      "lon": 121.4498301,
+      "tags": {
+        "addr:housenumber": "500-2",
+        "addr:street": "肇嘉浜路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4476558095,
+      "lat": 31.1955061,
+      "lon": 121.4350011,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4476558096,
+      "lat": 31.2063687,
+      "lon": 121.433278,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4537546489,
+      "lat": 31.188547,
+      "lon": 121.4540236,
+      "tags": {
+        "addr:city": "上海市",
+        "addr:district": "徐汇区",
+        "addr:housenumber": "599",
+        "addr:street": "东安路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4674891889,
+      "lat": 31.1788973,
+      "lon": 121.4187764,
+      "tags": {
+        "addr:housenumber": "19",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4826751226,
+      "lat": 31.1975992,
+      "lon": 121.4349521,
+      "tags": {
+        "addr:housenumber": "890弄3号",
+        "addr:street": "衡山路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4977069621,
+      "lat": 31.199617,
+      "lon": 121.432255,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5073175334,
+      "lat": 31.1809984,
+      "lon": 121.4386258,
+      "tags": {
+        "addr:housenumber": "1089",
+        "addr:street": "中山南二路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5232179148,
+      "lat": 31.1741842,
+      "lon": 121.4115593,
+      "tags": {
+        "addr:housenumber": "402",
+        "addr:street": "桂林路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "phone": "+86 21 5465 0795",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5258792647,
+      "lat": 31.1369873,
+      "lon": 121.4213798,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5260175922,
+      "lat": 31.1904118,
+      "lon": 121.4375468,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5261337506,
+      "lat": 31.1947253,
+      "lon": 121.4359949,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5275031821,
+      "lat": 31.218379,
+      "lon": 121.4532473,
+      "tags": {
+        "addr:housenumber": "1008",
+        "addr:street": "淮海中路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:ja": "スターバックス",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5507705201,
+      "lat": 31.1943193,
+      "lon": 121.4383509,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5529607965,
+      "lat": 31.176413,
+      "lon": 121.4287297,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5784517287,
+      "lat": 31.197699,
+      "lon": 121.4184174,
+      "tags": {
+        "addr:housenumber": "519",
+        "addr:street": "淮海西路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+86 21 5299 6895",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952948786,
+      "lat": 31.207734,
+      "lon": 121.4553306,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6217701085,
+      "lat": 31.2036407,
+      "lon": 121.4303326,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6387255820,
+      "lat": 31.1863593,
+      "lon": 121.4528517,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6468988485,
+      "lat": 31.2116079,
+      "lon": 121.4481869,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:de": "Starbucks coffee",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7366190895,
+      "lat": 31.1850293,
+      "lon": 121.4332832,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7417153109,
+      "lat": 31.1970695,
+      "lon": 121.4407028,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7555436655,
+      "lat": 31.1856446,
+      "lon": 121.423182,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7656355075,
+      "lat": 31.2143077,
+      "lon": 121.4452801,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8221463008,
+      "lat": 31.2173167,
+      "lon": 121.4529163,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "level": "-2",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8691113717,
+      "lat": 31.1982021,
+      "lon": 121.4236059,
+      "tags": {
+        "addr:housenumber": "878",
+        "addr:street": "番禺路",
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9503764681,
+      "lat": 31.1827271,
+      "lon": 121.4591447,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "zh:星巴克",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10779667232,
+      "lat": 31.1329387,
+      "lon": 121.4279592,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11175751921,
+      "lat": 31.1215323,
+      "lon": 121.4511442,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11224458264,
+      "lat": 31.1660752,
+      "lon": 121.4550013,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11276662108,
+      "lat": 31.2077683,
+      "lon": 121.4439448,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11304029579,
+      "lat": 31.1189869,
+      "lon": 121.4558722,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11633788362,
+      "lat": 31.1612576,
+      "lon": 121.4555474,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11633816771,
+      "lat": 31.1541471,
+      "lon": 121.4270897,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11959676531,
+      "lat": 31.1843463,
+      "lon": 121.4602749,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12060721143,
+      "lat": 31.1557129,
+      "lon": 121.4461853,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12203903440,
+      "lat": 31.2141686,
+      "lon": 121.4456277,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12446550901,
+      "lat": 31.1967572,
+      "lon": 121.4372213,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12483814401,
+      "lat": 31.1924389,
+      "lon": 121.4343656,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12498223993,
+      "lat": 31.1705758,
+      "lon": 121.4282204,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12498228526,
+      "lat": 31.1762253,
+      "lon": 121.429001,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12518143102,
+      "lat": 31.1706569,
+      "lon": 121.4283156,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "星巴克St",
+        "name:en": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 07:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13368682862,
+      "lat": 31.1637467,
+      "lon": 121.3947881,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13368725811,
+      "lat": 31.1658002,
+      "lon": 121.3942738,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "星巴克",
+        "brand:en": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:zh": "星巴克",
+        "cuisine": "coffee_shop",
+        "name": "星巴克",
+        "name:en": "Starbucks",
+        "name:zh": "星巴克",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 96664914,
+      "nodes": [
+        1119578898,
+        2355635776,
+        2355635775,
+        1119578899,
+        1119578902,
+        1119578905,
+        2355635773,
+        2355635780,
+        1119578909,
+        2355635774,
+        2355635779,
+        2355635778,
+        1580625971,
+        2355635777,
+        1119578911,
+        1119578912,
+        1119578898
+      ],
+      "tags": {
+        "addr:postcode": "200030",
+        "addr:street": "上海市徐汇区淮海西路55号",
+        "building": "office",
+        "name": "申通信息广场",
+        "name:en": "Sun Tong Infoport Plaza",
+        "source": "Autonavi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 372649192,
+      "nodes": [
+        3761998508,
+        3761998460,
+        3761998452,
+        3761998447,
+        3761998442,
+        3761998440,
+        3761998439,
+        3761998436,
+        3761998431,
+        3761998488,
+        3761998508
+      ],
+      "tags": {
+        "building": "office"
+      }
+    },
+    {
+      "type": "way",
+      "id": 372649293,
+      "nodes": [
+        3761998679,
+        3761998709,
+        3761998688,
+        3761998651,
+        3761998679
+      ],
+      "tags": {
+        "building": "office",
+        "nohousenumber": "yes",
+        "source": "GISmaps/std"
+      }
+    },
+    {
+      "type": "way",
+      "id": 372649356,
+      "nodes": [
+        3761998386,
+        3761998397,
+        3761998371,
+        3761998364,
+        3761998386
+      ],
+      "tags": {
+        "addr:housenumber": "380",
+        "addr:street": "一期A楼",
+        "building": "office",
+        "source": "GISmaps/std"
+      }
+    },
+    {
+      "type": "way",
+      "id": 372649380,
+      "nodes": [
+        3761998346,
+        3761998360,
+        3761998353,
+        3761998362,
+        3761998342,
+        3761998324,
+        3761998346
+      ],
+      "tags": {
+        "addr:housenumber": "388",
+        "building": "office"
+      }
+    },
+    {
+      "type": "way",
+      "id": 862439309,
+      "nodes": [
+        8035003260,
+        8035003259,
+        8035003258,
+        8035003257,
+        8035003260
+      ],
+      "tags": {
+        "building": "office"
+      }
+    },
+    {
+      "type": "way",
+      "id": 862439310,
+      "nodes": [
+        8035003264,
+        8035003263,
+        8035003262,
+        8035003261,
+        8035003264
+      ],
+      "tags": {
+        "building": "office"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1076685324,
+      "nodes": [
+        9873191871,
+        9873191898,
+        9873191900,
+        9873191872,
+        9873191901,
+        9873191899,
+        9873191895,
+        9873191897,
+        9873191873,
+        9873191896,
+        9873191894,
+        9873191891,
+        9873191892,
+        9873191874,
+        9873191893,
+        9873191890,
+        9873191887,
+        9873191889,
+        9873191875,
+        9873191888,
+        9873191883,
+        9873191885,
+        9873191876,
+        9873191886,
+        9873191884,
+        9873191911,
+        9873191913,
+        9873191877,
+        9873191912,
+        9873191910,
+        9873191878,
+        9873191906,
+        9873191908,
+        9873191879,
+        9873191909,
+        9873191907,
+        9873191880,
+        9873191903,
+        9873191904,
+        9873191881,
+        9873191905,
+        9873191902,
+        9873191882,
+        9873191871
+      ],
+      "tags": {
+        "addr:district": "徐汇区",
+        "addr:housenumber": "160",
+        "addr:postcode": "200030",
+        "addr:province": "上海",
+        "addr:street": "恭城路",
+        "building": "office",
+        "building:levels": "21",
+        "name": "TWOitc",
+        "operator": "新鸿基地产",
+        "operator:en": "Sun Hung Kai Properties",
+        "operator:zh": "新鸿基地产"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1267862857,
+      "nodes": [
+        11775058505,
+        11775058506,
+        11775058507,
+        11775058508,
+        11775058509,
+        11775058510,
+        11775058511,
+        11775058512,
+        11775058505
+      ],
+      "tags": {
+        "building": "office"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1309284221,
+      "nodes": [
+        12124024721,
+        12124024722,
+        12124024723,
+        12124024752,
+        12124024753,
+        12124024748,
+        12124024721
+      ],
+      "tags": {
+        "building": "office",
+        "building:levels": "29",
+        "name": "环贸A座"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1309284222,
+      "nodes": [
+        12124024754,
+        12124024724,
+        12124024725,
+        12124024757,
+        12124024754
+      ],
+      "tags": {
+        "building": "office",
+        "building:levels": "29",
+        "name": "环贸B座"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1339970740,
+      "nodes": [
+        12395056620,
+        12395056621,
+        12395056622,
+        12395056623,
+        12395056620
+      ],
+      "tags": {
+        "building": "office"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1339970741,
+      "nodes": [
+        12395056624,
+        12395056625,
+        12395056626,
+        12395056627,
+        12395056624
+      ],
+      "tags": {
+        "building": "office"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1339970742,
+      "nodes": [
+        12395056628,
+        12395056629,
+        12395056630,
+        12395056631,
+        12395056628
+      ],
+      "tags": {
+        "building": "office"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1339970744,
+      "nodes": [
+        12395056638,
+        12395056639,
+        12395056640,
+        12395056641,
+        12395056638
+      ],
+      "tags": {
+        "building": "office"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1339970745,
+      "nodes": [
+        12395056642,
+        12395056643,
+        12395056644,
+        12395056645,
+        12395056642
+      ],
+      "tags": {
+        "building": "office"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1339970746,
+      "nodes": [
+        12395056646,
+        12395056647,
+        12395056648,
+        12395056649,
+        12395056646
+      ],
+      "tags": {
+        "building": "office"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1424529613,
+      "nodes": [
+        13093878154,
+        13093878155,
+        13093878156,
+        13093878157,
+        13093878154
+      ],
+      "tags": {
+        "building": "office",
+        "name": "漕河泾科汇大厦"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13093878154,
+      "lat": 31.180405,
+      "lon": 121.3965657
+    },
+    {
+      "type": "node",
+      "id": 13093878155,
+      "lat": 31.1805311,
+      "lon": 121.3970098
+    },
+    {
+      "type": "node",
+      "id": 13093878156,
+      "lat": 31.1801352,
+      "lon": 121.3971633
+    },
+    {
+      "type": "node",
+      "id": 13093878157,
+      "lat": 31.1800091,
+      "lon": 121.3967192
+    },
+    {
+      "type": "node",
+      "id": 8035003257,
+      "lat": 31.1882984,
+      "lon": 121.4169621
+    },
+    {
+      "type": "node",
+      "id": 8035003258,
+      "lat": 31.1884526,
+      "lon": 121.4172614
+    },
+    {
+      "type": "node",
+      "id": 8035003259,
+      "lat": 31.1888086,
+      "lon": 121.4170108
+    },
+    {
+      "type": "node",
+      "id": 8035003260,
+      "lat": 31.1886545,
+      "lon": 121.4167115
+    },
+    {
+      "type": "node",
+      "id": 8035003261,
+      "lat": 31.1885603,
+      "lon": 121.4174946
+    },
+    {
+      "type": "node",
+      "id": 8035003262,
+      "lat": 31.1887027,
+      "lon": 121.417771
+    },
+    {
+      "type": "node",
+      "id": 8035003263,
+      "lat": 31.1890607,
+      "lon": 121.417519
+    },
+    {
+      "type": "node",
+      "id": 8035003264,
+      "lat": 31.1889184,
+      "lon": 121.4172426
+    },
+    {
+      "type": "node",
+      "id": 12395056620,
+      "lat": 31.1096051,
+      "lon": 121.4483917
+    },
+    {
+      "type": "node",
+      "id": 12395056621,
+      "lat": 31.1095362,
+      "lon": 121.4488296
+    },
+    {
+      "type": "node",
+      "id": 12395056622,
+      "lat": 31.1097833,
+      "lon": 121.4488825
+    },
+    {
+      "type": "node",
+      "id": 12395056623,
+      "lat": 31.1098521,
+      "lon": 121.4484446
+    },
+    {
+      "type": "node",
+      "id": 12395056624,
+      "lat": 31.1099483,
+      "lon": 121.4484652
+    },
+    {
+      "type": "node",
+      "id": 12395056625,
+      "lat": 31.1098795,
+      "lon": 121.4489031
+    },
+    {
+      "type": "node",
+      "id": 12395056626,
+      "lat": 31.1101265,
+      "lon": 121.448956
+    },
+    {
+      "type": "node",
+      "id": 12395056627,
+      "lat": 31.1101953,
+      "lon": 121.4485181
+    },
+    {
+      "type": "node",
+      "id": 12395056628,
+      "lat": 31.1102987,
+      "lon": 121.4485449
+    },
+    {
+      "type": "node",
+      "id": 12395056629,
+      "lat": 31.1102298,
+      "lon": 121.4489828
+    },
+    {
+      "type": "node",
+      "id": 12395056630,
+      "lat": 31.1104769,
+      "lon": 121.4490357
+    },
+    {
+      "type": "node",
+      "id": 12395056631,
+      "lat": 31.1105457,
+      "lon": 121.4485978
+    },
+    {
+      "type": "node",
+      "id": 12395056638,
+      "lat": 31.1085153,
+      "lon": 121.4467936
+    },
+    {
+      "type": "node",
+      "id": 12395056639,
+      "lat": 31.1085522,
+      "lon": 121.4472315
+    },
+    {
+      "type": "node",
+      "id": 12395056640,
+      "lat": 31.1091001,
+      "lon": 121.4471685
+    },
+    {
+      "type": "node",
+      "id": 12395056641,
+      "lat": 31.1090632,
+      "lon": 121.4467305
+    },
+    {
+      "type": "node",
+      "id": 12395056642,
+      "lat": 31.1085798,
+      "lon": 121.447441
+    },
+    {
+      "type": "node",
+      "id": 12395056643,
+      "lat": 31.1086369,
+      "lon": 121.4480174
+    },
+    {
+      "type": "node",
+      "id": 12395056644,
+      "lat": 31.1089751,
+      "lon": 121.4479718
+    },
+    {
+      "type": "node",
+      "id": 12395056645,
+      "lat": 31.1089181,
+      "lon": 121.4473954
+    },
+    {
+      "type": "node",
+      "id": 12395056646,
+      "lat": 31.1086955,
+      "lon": 121.4483058
+    },
+    {
+      "type": "node",
+      "id": 12395056647,
+      "lat": 31.1087008,
+      "lon": 121.4486678
+    },
+    {
+      "type": "node",
+      "id": 12395056648,
+      "lat": 31.1091856,
+      "lon": 121.4487323
+    },
+    {
+      "type": "node",
+      "id": 12395056649,
+      "lat": 31.1092125,
+      "lon": 121.4483583
+    },
+    {
+      "type": "node",
+      "id": 11775058509,
+      "lat": 31.1459786,
+      "lon": 121.4441801
+    },
+    {
+      "type": "node",
+      "id": 11775058510,
+      "lat": 31.1458328,
+      "lon": 121.4436415
+    },
+    {
+      "type": "node",
+      "id": 11775058505,
+      "lat": 31.1465234,
+      "lon": 121.4439091
+    },
+    {
+      "type": "node",
+      "id": 11775058506,
+      "lat": 31.1464856,
+      "lon": 121.4437692
+    },
+    {
+      "type": "node",
+      "id": 11775058507,
+      "lat": 31.1463005,
+      "lon": 121.4438376
+    },
+    {
+      "type": "node",
+      "id": 11775058508,
+      "lat": 31.1463555,
+      "lon": 121.4440408
+    },
+    {
+      "type": "node",
+      "id": 11775058511,
+      "lat": 31.1466797,
+      "lon": 121.4433283
+    },
+    {
+      "type": "node",
+      "id": 11775058512,
+      "lat": 31.1468085,
+      "lon": 121.4438037
+    },
+    {
+      "type": "node",
+      "id": 9873191877,
+      "lat": 31.1982768,
+      "lon": 121.4316972
+    },
+    {
+      "type": "node",
+      "id": 9873191878,
+      "lat": 31.1983497,
+      "lon": 121.4321124
+    },
+    {
+      "type": "node",
+      "id": 9873191910,
+      "lat": 31.1982728,
+      "lon": 121.4317165
+    },
+    {
+      "type": "node",
+      "id": 9873191911,
+      "lat": 31.1982899,
+      "lon": 121.4316896
+    },
+    {
+      "type": "node",
+      "id": 9873191912,
+      "lat": 31.1982734,
+      "lon": 121.4317062
+    },
+    {
+      "type": "node",
+      "id": 9873191913,
+      "lat": 31.1982831,
+      "lon": 121.4316923
+    },
+    {
+      "type": "node",
+      "id": 1119578898,
+      "lat": 31.2032533,
+      "lon": 121.4292197
+    },
+    {
+      "type": "node",
+      "id": 1119578899,
+      "lat": 31.20361,
+      "lon": 121.4300162
+    },
+    {
+      "type": "node",
+      "id": 1119578902,
+      "lat": 31.2033715,
+      "lon": 121.4301493
+    },
+    {
+      "type": "node",
+      "id": 1119578905,
+      "lat": 31.2033065,
+      "lon": 121.4301556
+    },
+    {
+      "type": "node",
+      "id": 1119578909,
+      "lat": 31.2030085,
+      "lon": 121.4299402
+    },
+    {
+      "type": "node",
+      "id": 1119578911,
+      "lat": 31.2030356,
+      "lon": 121.429408
+    },
+    {
+      "type": "node",
+      "id": 1119578912,
+      "lat": 31.203041,
+      "lon": 121.4293637
+    },
+    {
+      "type": "node",
+      "id": 1580625971,
+      "lat": 31.202938,
+      "lon": 121.4295791
+    },
+    {
+      "type": "node",
+      "id": 2355635773,
+      "lat": 31.2031819,
+      "lon": 121.4300732
+    },
+    {
+      "type": "node",
+      "id": 2355635774,
+      "lat": 31.2029543,
+      "lon": 121.4298705
+    },
+    {
+      "type": "node",
+      "id": 2355635775,
+      "lat": 31.2034691,
+      "lon": 121.4296361
+    },
+    {
+      "type": "node",
+      "id": 2355635776,
+      "lat": 31.2033715,
+      "lon": 121.429446
+    },
+    {
+      "type": "node",
+      "id": 2355635777,
+      "lat": 31.2029489,
+      "lon": 121.429465
+    },
+    {
+      "type": "node",
+      "id": 2355635778,
+      "lat": 31.2029163,
+      "lon": 121.4296741
+    },
+    {
+      "type": "node",
+      "id": 2355635779,
+      "lat": 31.2029109,
+      "lon": 121.4297755
+    },
+    {
+      "type": "node",
+      "id": 2355635780,
+      "lat": 31.2030843,
+      "lon": 121.4299465
+    },
+    {
+      "type": "node",
+      "id": 9873191874,
+      "lat": 31.1987654,
+      "lon": 121.4316153
+    },
+    {
+      "type": "node",
+      "id": 9873191875,
+      "lat": 31.1985825,
+      "lon": 121.4316506
+    },
+    {
+      "type": "node",
+      "id": 9873191876,
+      "lat": 31.1985726,
+      "lon": 121.4316291
+    },
+    {
+      "type": "node",
+      "id": 9873191883,
+      "lat": 31.1985785,
+      "lon": 121.4316406
+    },
+    {
+      "type": "node",
+      "id": 9873191884,
+      "lat": 31.1985637,
+      "lon": 121.4316278
+    },
+    {
+      "type": "node",
+      "id": 9873191885,
+      "lat": 31.1985759,
+      "lon": 121.4316338
+    },
+    {
+      "type": "node",
+      "id": 9873191886,
+      "lat": 31.1985682,
+      "lon": 121.4316274
+    },
+    {
+      "type": "node",
+      "id": 9873191887,
+      "lat": 31.198593,
+      "lon": 121.4316536
+    },
+    {
+      "type": "node",
+      "id": 9873191888,
+      "lat": 31.1985802,
+      "lon": 121.4316462
+    },
+    {
+      "type": "node",
+      "id": 9873191889,
+      "lat": 31.1985877,
+      "lon": 121.4316531
+    },
+    {
+      "type": "node",
+      "id": 9873191890,
+      "lat": 31.1987453,
+      "lon": 121.4316131
+    },
+    {
+      "type": "node",
+      "id": 9873191891,
+      "lat": 31.1987793,
+      "lon": 121.4316353
+    },
+    {
+      "type": "node",
+      "id": 9873191892,
+      "lat": 31.1987736,
+      "lon": 121.4316239
+    },
+    {
+      "type": "node",
+      "id": 9873191893,
+      "lat": 31.1987552,
+      "lon": 121.4316128
+    },
+    {
+      "type": "node",
+      "id": 9873191871,
+      "lat": 31.1986065,
+      "lon": 121.4318975
+    },
+    {
+      "type": "node",
+      "id": 9873191872,
+      "lat": 31.1986295,
+      "lon": 121.4319916
+    },
+    {
+      "type": "node",
+      "id": 9873191873,
+      "lat": 31.1988282,
+      "lon": 121.4319282
+    },
+    {
+      "type": "node",
+      "id": 9873191879,
+      "lat": 31.1984711,
+      "lon": 121.4320766
+    },
+    {
+      "type": "node",
+      "id": 9873191880,
+      "lat": 31.1984675,
+      "lon": 121.4320363
+    },
+    {
+      "type": "node",
+      "id": 9873191881,
+      "lat": 31.1985194,
+      "lon": 121.4320143
+    },
+    {
+      "type": "node",
+      "id": 9873191882,
+      "lat": 31.1985082,
+      "lon": 121.4319237
+    },
+    {
+      "type": "node",
+      "id": 9873191894,
+      "lat": 31.1988296,
+      "lon": 121.4318944
+    },
+    {
+      "type": "node",
+      "id": 9873191895,
+      "lat": 31.1988073,
+      "lon": 121.4319485
+    },
+    {
+      "type": "node",
+      "id": 9873191896,
+      "lat": 31.198832,
+      "lon": 121.4319113
+    },
+    {
+      "type": "node",
+      "id": 9873191897,
+      "lat": 31.1988182,
+      "lon": 121.431941
+    },
+    {
+      "type": "node",
+      "id": 9873191898,
+      "lat": 31.1986215,
+      "lon": 121.4319745
+    },
+    {
+      "type": "node",
+      "id": 9873191899,
+      "lat": 31.1986444,
+      "lon": 121.4319917
+    },
+    {
+      "type": "node",
+      "id": 9873191900,
+      "lat": 31.1986248,
+      "lon": 121.4319846
+    },
+    {
+      "type": "node",
+      "id": 9873191901,
+      "lat": 31.198637,
+      "lon": 121.4319928
+    },
+    {
+      "type": "node",
+      "id": 9873191902,
+      "lat": 31.1985221,
+      "lon": 121.4319954
+    },
+    {
+      "type": "node",
+      "id": 9873191903,
+      "lat": 31.1985055,
+      "lon": 121.4320263
+    },
+    {
+      "type": "node",
+      "id": 9873191904,
+      "lat": 31.1985128,
+      "lon": 121.4320219
+    },
+    {
+      "type": "node",
+      "id": 9873191905,
+      "lat": 31.1985214,
+      "lon": 121.4320048
+    },
+    {
+      "type": "node",
+      "id": 9873191906,
+      "lat": 31.1984564,
+      "lon": 121.4320841
+    },
+    {
+      "type": "node",
+      "id": 9873191907,
+      "lat": 31.1984717,
+      "lon": 121.4320576
+    },
+    {
+      "type": "node",
+      "id": 9873191908,
+      "lat": 31.1984646,
+      "lon": 121.4320815
+    },
+    {
+      "type": "node",
+      "id": 9873191909,
+      "lat": 31.1984729,
+      "lon": 121.4320667
+    },
+    {
+      "type": "node",
+      "id": 3761998324,
+      "lat": 31.1926529,
+      "lon": 121.4531959
+    },
+    {
+      "type": "node",
+      "id": 3761998342,
+      "lat": 31.1928477,
+      "lon": 121.4537335
+    },
+    {
+      "type": "node",
+      "id": 3761998346,
+      "lat": 31.1928801,
+      "lon": 121.4530834
+    },
+    {
+      "type": "node",
+      "id": 3761998353,
+      "lat": 31.1929557,
+      "lon": 121.4534574
+    },
+    {
+      "type": "node",
+      "id": 3761998360,
+      "lat": 31.1930065,
+      "lon": 121.4534323
+    },
+    {
+      "type": "node",
+      "id": 3761998362,
+      "lat": 31.1930241,
+      "lon": 121.4536461
+    },
+    {
+      "type": "node",
+      "id": 3761998364,
+      "lat": 31.1930339,
+      "lon": 121.4528768
+    },
+    {
+      "type": "node",
+      "id": 3761998371,
+      "lat": 31.1931286,
+      "lon": 121.4531703
+    },
+    {
+      "type": "node",
+      "id": 3761998386,
+      "lat": 31.1933364,
+      "lon": 121.4527434
+    },
+    {
+      "type": "node",
+      "id": 3761998397,
+      "lat": 31.1934311,
+      "lon": 121.4530369
+    },
+    {
+      "type": "node",
+      "id": 3761998431,
+      "lat": 31.1936712,
+      "lon": 121.4524718
+    },
+    {
+      "type": "node",
+      "id": 3761998436,
+      "lat": 31.1937111,
+      "lon": 121.4526039
+    },
+    {
+      "type": "node",
+      "id": 3761998439,
+      "lat": 31.1937366,
+      "lon": 121.45267
+    },
+    {
+      "type": "node",
+      "id": 3761998440,
+      "lat": 31.1937576,
+      "lon": 121.4527231
+    },
+    {
+      "type": "node",
+      "id": 3761998442,
+      "lat": 31.1937787,
+      "lon": 121.4527658
+    },
+    {
+      "type": "node",
+      "id": 3761998447,
+      "lat": 31.1938197,
+      "lon": 121.452793
+    },
+    {
+      "type": "node",
+      "id": 3761998452,
+      "lat": 31.1938684,
+      "lon": 121.4528124
+    },
+    {
+      "type": "node",
+      "id": 3761998460,
+      "lat": 31.1939127,
+      "lon": 121.4528021
+    },
+    {
+      "type": "node",
+      "id": 3761998488,
+      "lat": 31.1940789,
+      "lon": 121.4523073
+    },
+    {
+      "type": "node",
+      "id": 3761998508,
+      "lat": 31.1941964,
+      "lon": 121.4526751
+    },
+    {
+      "type": "node",
+      "id": 3761998651,
+      "lat": 31.1948883,
+      "lon": 121.455557
+    },
+    {
+      "type": "node",
+      "id": 3761998679,
+      "lat": 31.1950241,
+      "lon": 121.4554832
+    },
+    {
+      "type": "node",
+      "id": 3761998688,
+      "lat": 31.1950611,
+      "lon": 121.4559921
+    },
+    {
+      "type": "node",
+      "id": 3761998709,
+      "lat": 31.195197,
+      "lon": 121.4559184
+    },
+    {
+      "type": "node",
+      "id": 12124024721,
+      "lat": 31.2168802,
+      "lon": 121.4536494
+    },
+    {
+      "type": "node",
+      "id": 12124024722,
+      "lat": 31.2170545,
+      "lon": 121.4540495
+    },
+    {
+      "type": "node",
+      "id": 12124024723,
+      "lat": 31.2173641,
+      "lon": 121.4538651
+    },
+    {
+      "type": "node",
+      "id": 12124024724,
+      "lat": 31.217645,
+      "lon": 121.4545244
+    },
+    {
+      "type": "node",
+      "id": 12124024725,
+      "lat": 31.2180808,
+      "lon": 121.4542737
+    },
+    {
+      "type": "node",
+      "id": 12124024748,
+      "lat": 31.2171928,
+      "lon": 121.4534632
+    },
+    {
+      "type": "node",
+      "id": 12124024752,
+      "lat": 31.2174817,
+      "lon": 121.453795
+    },
+    {
+      "type": "node",
+      "id": 12124024753,
+      "lat": 31.2173074,
+      "lon": 121.4533949
+    },
+    {
+      "type": "node",
+      "id": 12124024754,
+      "lat": 31.2174709,
+      "lon": 121.4541159
+    },
+    {
+      "type": "node",
+      "id": 12124024757,
+      "lat": 31.2179086,
+      "lon": 121.4538643
+    }
+  ]
+}
